@@ -47,7 +47,7 @@ Mounting this throttle control is rather straight-forward. Two metal, industrial
 
 <img src="https://user-images.githubusercontent.com/23239868/28730743-44dd24ae-739f-11e7-8b64-c60eab6c9a3c.JPG" height="480" width="640">
 <img src="https://user-images.githubusercontent.com/23239868/28730745-474df10a-739f-11e7-9099-c5867ac803b1.JPG" height="480" width="640">
-<img src="https://user-images.githubusercontent.com/23239868/28730750-4e2472ce-739f-11e7-9040-945ccccf13b2.JPG" height="480" width="640">
+<img src="https://user-images.githubusercontent.com/23239868/28730750-4e2472ce-739f-11e7-9040-945ccccf13b2.JPG" height="480" width="450">
 
 ## Appendix ##
 
