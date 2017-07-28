@@ -6,7 +6,7 @@
 
 ## Methodology ##
 
-A custom servo motor horn attachment was designed with SolidWorks to attach to the throttle cable of the snowmobile. Code was developed in LabVIEW to control the servo motor via **Pulse Width Modulation** (PWM).
+A custom servo motor [1] horn attachment was designed with SolidWorks to attach to the throttle cable of the snowmobile. Code was developed in LabVIEW to control the servo motor via **Pulse Width Modulation** (PWM).
 
 ## MakerHub LINX ## 
 LINX is a library developed by MakerHub that allows programmers to interface with the RaspberryPi, Arduino and other microcontrollers on LabVIEW. LINX has been used extensively in this project to communicate with the ArduinoMEGA, which controls each subsystem. Download and other information can be found at:
@@ -35,7 +35,7 @@ Since LINX already has pre-built serco motor control VIs, it makes the setup inc
 
 ## SolidWorks Throttle Assembly ##
 
-The servo motor must connect to the snowmobile's throttle cable in order to push/release it - giving the motor more/less gas respectively. A simple solution has been designed and created in SolidWorks - which consists of two pieces (1) servo motor attachment and (2) cable lock.
+The servo motor must connect to the snowmobile's throttle cable in order to push/release it - giving the motor more/less gas respectively. A simple solution has been designed and created in SolidWorks - which consists of two pieces (1) servo motor attachment and (2) cable lock. These parts were printed at Penn State's Makerbot Commons [2].
 
 The servo motor attachment connects and locks onto a 4-way servo horn (to evenly distribute the torque). The attachment allows for the extension piece to move freely while the servo turns, which allows the cable to be pulled in a unique way (outward at an angle rather than a direct angle).
 
@@ -51,5 +51,8 @@ Mounting this throttle control is rather straight-forward. Two metal, industrial
 
 ## Appendix ##
 
+[1] [Servo Motor](http://hitecrcd.com/products/servos/waterproof-servos-2/hs-5646wp-high-voltage-high-torque-programmable-digital-waterproof-servo/product)
+
+[2] [Penn State Makerbot Commons](https://makercommons.psu.edu/)
 
 
