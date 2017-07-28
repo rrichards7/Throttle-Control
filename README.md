@@ -33,27 +33,24 @@ Since LINX already has pre-built serco motor control VIs, it makes the setup inc
 ![1](https://user-images.githubusercontent.com/23239868/28731081-7de710a6-73a0-11e7-9177-cf22d2c64da4.PNG)
 
 
-
-
 ## SolidWorks Throttle Assembly ##
 
+The servo motor must connect to the snowmobile's throttle cable in order to push/release it - giving the motor more/less gas respectively. A simple solution has been designed and created in SolidWorks - which consists of two pieces (1) servo motor attachment and (2) cable lock.
 
+The servo motor attachment connects and locks onto a 4-way servo horn (to evenly distribute the torque). The attachment allows for the extension piece to move freely while the servo turns, which allows the cable to be pulled in a unique way (outward at an angle rather than a direct angle).
 
+The cable lock connects to the throttle cable and the servo extension piece.
 
 ## Mounting ##
+
+Mounting this throttle control is rather straight-forward. Two metal, industrial clamps are used to fix the servo motor itself to the snowmobile handlebar. The cable then is snapped into the cable lock piece. Follow the setup shown in the pictures below:
+
 ![img_0123](https://user-images.githubusercontent.com/23239868/28730743-44dd24ae-739f-11e7-8b64-c60eab6c9a3c.JPG)
 ![img_0118](https://user-images.githubusercontent.com/23239868/28730745-474df10a-739f-11e7-9099-c5867ac803b1.JPG)
 ![img_0115](https://user-images.githubusercontent.com/23239868/28730750-4e2472ce-739f-11e7-9040-945ccccf13b2.JPG)
 
 
+## Appendix ##
 
 
-
-
-
-
-
-## Future Considerations ##
-
-programming based on velocity indicator
 
