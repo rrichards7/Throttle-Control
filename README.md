@@ -19,7 +19,7 @@ Since LINX already has pre-built serco motor control VIs, it makes the setup inc
 
 ![2](https://user-images.githubusercontent.com/23239868/28730876-aaa73324-739f-11e7-8d50-749ff2350a4a.PNG)
 
-Control instructions:
+*Control instructions:*
 
 (1) on the LabVIEW Front Panel select the **Serial Port** for the ArduinoMEGA
 
@@ -29,7 +29,8 @@ Control instructions:
 
 (4) click the **Stop** button when finished to ensure that the Arduino VISA resource closes correctly
 
-![ezgif com-video-to-gif 2](https://user-images.githubusercontent.com/23239868/28730651-ff98549a-739e-11e7-9b17-23615d583ab2.gif)
+![ezgif com-crop](https://user-images.githubusercontent.com/23239868/28731039-5b8aecc6-73a0-11e7-9ec8-676900ab4153.gif)
+
 
 
 
