@@ -30,6 +30,7 @@ Since LINX already has pre-built serco motor control VIs, it makes the setup inc
 (4) click the **Stop** button when finished to ensure that the Arduino VISA resource closes correctly
 
 ![ezgif com-crop](https://user-images.githubusercontent.com/23239868/28731039-5b8aecc6-73a0-11e7-9ec8-676900ab4153.gif)
+![1](https://user-images.githubusercontent.com/23239868/28731081-7de710a6-73a0-11e7-9177-cf22d2c64da4.PNG)
 
 
 
