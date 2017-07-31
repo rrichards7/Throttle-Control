@@ -41,8 +41,8 @@ The servo motor attachment connects and locks onto a 4-way servo horn (to evenly
 
 The cable lock connects to the throttle cable and the servo extension piece.
 
-[cap1.pdf](https://github.com/rrichards7/Throttle-Control/files/1189051/cap1.pdf)
-[cap2.pdf](https://github.com/rrichards7/Throttle-Control/files/1189052/cap2.pdf)
+
+![cap1](https://user-images.githubusercontent.com/23239868/28802257-8b79e0d8-7623-11e7-8576-d68fdbf80ab0.PNG)
 
 ## Mounting ##
 
