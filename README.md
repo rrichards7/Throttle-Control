@@ -51,7 +51,15 @@ The servo motor must connect to the snowmobile's throttle cable in order to push
 
 ## Mounting ##
 
-Mounting this throttle control is rather straight-forward. Two metal, industrial clamps are used to fix the servo motor itself to the snowmobile handlebar. The cable then is snapped into the cable lock piece. Follow the setup shown in the pictures below:
+Mounting this throttle control is rather straight-forward. The assemby itself was designed for quick and easy installation on the snowmobile handlebar.
+
+*Mounting Instructions*
+
+(1) Fix the **servo motor** onto the snowmobile handlebar using the two metal, industrial clamps (tighten completely with a flat-head screw-driver).
+
+(2) Place the **throttle cable** into the cable lock piece. 
+
+**Note:** Follow the setup shown in the pictures below:
 
 <img src="https://user-images.githubusercontent.com/23239868/28730743-44dd24ae-739f-11e7-8b64-c60eab6c9a3c.JPG" height="480" width="640">
 <img src="https://user-images.githubusercontent.com/23239868/28730745-474df10a-739f-11e7-9099-c5867ac803b1.JPG" height="480" width="640">
